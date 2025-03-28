@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TLUContact</string>
+
+    <!-- Chuỗi cho màn hình chi tiết đơn vị -->
+    <string name="unit_detail_title">Chi tiết đơn vị</string>
+    <string name="unit_name">Tên đơn vị</string>
+    <string name="phone_label">Số điện thoại:</string>
+    <string name="sample_phone">024.38522028</string>
+    <string name="address_label">Địa chỉ:</string>
+    <string name="sample_address">Địa chỉ đơn vị</string>
+    <string name="email_label">Email:</string>
+    <string name="description_label">Mô tả:</string>
+    <string name="back_button">Quay lại</string>
+    <string name="sample_email">email@tlu.edu.vn</string>
+    <string name="sample_description">Mô tả chi tiết về đơn vị</string>
+
+    <!-- Chuỗi chung -->
+    <string name="units_list">Danh bạ đơn vị</string>
+    <string name="employees_list">Danh bạ CBNV</string>
+    <string name="search_hint">Tìm kiếm...</string>
+    <string name="add_new">Thêm mới</string>
+    <string name="save">Lưu</string>
+    <string name="cancel">Hủy</string>
+</resources>
